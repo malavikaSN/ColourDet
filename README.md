@@ -1,4 +1,6 @@
-About: Colour detection software for turtle hatchery.
+**TURTLEWARE**
+
+About: Colour detection software to be used for a turtle hatchery site.
 
 Programmed using:
   Python
